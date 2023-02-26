@@ -9,7 +9,7 @@ Este proyecto se realiza con el fin de mejorar y aumentar conocimientos y capaci
 
 ## Instrucciones
 
-![instrucciones](./img/Group%201.png)
+![instrucciones](./img/inst.png)
 
 Para el desarrollo de este proceso deberia seleccionar un proyecto el cual debe ser resuelto en un tiempo no mayor a 1 mes, teniendo en cuenta lo siguiente:
 
