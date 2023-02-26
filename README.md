@@ -25,15 +25,15 @@ Para el correcto desarrollo, en el proyeco se debe evidenciar el manejo de los s
 
 Debe crear un proyecto y este debe ser subido a un repositorio en el cual usted debe tener en cuenta.
 
- - [Manejo de ramas]()
- - [Nomenclatura de commits (Nomenclatura Serempre Commits)]()
+ - [Manejo de ramas](#ramas)
+ - [Nomenclatura de commits (Nomenclatura Serempre Commits)](#nomeclatura)
   - [Pull request]()
 
 
 una vez finalizado o tenga un avance significativo debera realizar un pull request solicitando la revision de su codigo, para asi aceptarlo o dar correccciones sobre este.
 
 
-
+<a name="ramas"></a>
 ## Manejo de ramas
 
 ```bash
@@ -46,6 +46,7 @@ una vez finalizado o tenga un avance significativo debera realizar un pull reque
   fix-loader
 ```
 
+<a name="nomenclatura"></a>
 ## Nomenclatura Serempre Commits
 
 ```bash
@@ -56,11 +57,3 @@ una vez finalizado o tenga un avance significativo debera realizar un pull reque
   test: cuando se agrega un test al proyecto
   Docs: cambios en documentacion, comentarios o README
 ```
-
-## Pull request
-
-```bash
-
-```
-
-
