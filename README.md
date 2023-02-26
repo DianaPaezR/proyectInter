@@ -11,9 +11,7 @@ Este proyecto se realiza con el fin de mejorar y aumentar conocimientos y capaci
 
 ![instrucciones](./img/inst.png)
 
-Para el desarrollo de este proceso deberia seleccionar un proyecto el cual debe ser resuelto en un tiempo no mayor a 1 mes, teniendo en cuenta lo siguiente:
-
-#### 1. Requerimientos
+## Requerimientos
 
 Para el correcto desarrollo, en el proyeco se debe evidenciar el manejo de los siguientes temas
 
@@ -23,9 +21,9 @@ Para el correcto desarrollo, en el proyeco se debe evidenciar el manejo de los s
   - [Manupulacion de DOM](http://juanmirod.github.io/2019/06/24/chuleta-dom.html)
 
 
-#### 2. Git
+## Recomendaciones
 
-Debe crear un proyecto y este debe ser subido a un repositorio en el cual usted debe tener en cuenta.
+tenga en cuenta las siguientes recomendaciones al momento de publicar y realizar sus cambios 
 
  - [Manejo de ramas](#ramas)
  - [Nomenclatura de commits (Nomenclatura Serempre Commits)](#nomeclatura)
