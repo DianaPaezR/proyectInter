@@ -9,6 +9,8 @@ Este proyecto se realiza con el fin de mejorar y aumentar conocimientos y capaci
 
 ## Instrucciones
 
+![instrucciones](./img/Group%201.png)
+
 Para el desarrollo de este proceso deberia seleccionar un proyecto el cual debe ser resuelto en un tiempo no mayor a 1 mes, teniendo en cuenta lo siguiente:
 
 #### 1. Requerimientos
@@ -27,7 +29,7 @@ Debe crear un proyecto y este debe ser subido a un repositorio en el cual usted 
 
  - [Manejo de ramas](#ramas)
  - [Nomenclatura de commits (Nomenclatura Serempre Commits)](#nomeclatura)
-  - [Pull request]()
+  - [Pull request](#)
 
 
 una vez finalizado o tenga un avance significativo debera realizar un pull request solicitando la revision de su codigo, para asi aceptarlo o dar correccciones sobre este.
