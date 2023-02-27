@@ -23,6 +23,12 @@ Para el correcto desarrollo, en el proyeco se debe evidenciar el manejo de los s
 
 ## Recomendaciones
 
+- Publique su proyecto en gitHub de manera publica
+- invite a las siguientes personas:
+   - Felipe castillo -- fcastillo@serempre.com
+   - Sammy Guttman -- sguttman@serempre.com 
+   - Diana Paez -- dpaez@serempre.com 
+
 tenga en cuenta las siguientes recomendaciones al momento de publicar y realizar sus cambios 
 
  - [Manejo de ramas](https://docs.serempre.com/en/operations/development/frontend/git/generals/es)
