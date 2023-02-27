@@ -16,7 +16,7 @@ Este proyecto se realiza con el fin de mejorar y aumentar conocimientos y capaci
 Para el correcto desarrollo, en el proyeco se debe evidenciar el manejo de los siguientes temas
 
  - [Manupulacion de objetos ](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Working_with_Objects)
- - [Persistencia](https://developer.mozilla.org/es/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
+ - [Persistencia -- localStorage](https://developer.mozilla.org/es/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
  - [Responsive desing](https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Responsive_Design)
   - [Manupulacion de DOM](http://juanmirod.github.io/2019/06/24/chuleta-dom.html)
 
@@ -25,6 +25,7 @@ Para el correcto desarrollo, en el proyeco se debe evidenciar el manejo de los s
 
 - Publique su proyecto en gitHub de manera publica
 - invite a las siguientes personas:
+
    - Felipe castillo -- fcastillo@serempre.com
    - Sammy Guttman -- sguttman@serempre.com 
    - Diana Paez -- dpaez@serempre.com 
@@ -38,6 +39,14 @@ tenga en cuenta las siguientes recomendaciones al momento de publicar y realizar
 
 una vez finalizado o tenga un avance significativo debera realizar un pull request solicitando la revision de su codigo, para asi aceptarlo o dar correccciones sobre este.
 
+
+## Proyectos ejemplo
+
+Puede seleccionar unos de estos proyectos o proponer uno que desee.
+
+    1. Shipping card
+    2. Wizard form
+    3. Note list
 
 <a name="ramas"></a>
 ## Manejo de ramas
