@@ -25,9 +25,9 @@ Para el correcto desarrollo, en el proyeco se debe evidenciar el manejo de los s
 
 tenga en cuenta las siguientes recomendaciones al momento de publicar y realizar sus cambios 
 
- - [Manejo de ramas](#ramas)
- - [Nomenclatura de commits (Nomenclatura Serempre Commits)](#nomeclatura)
-  - [Pull request](#)
+ - [Manejo de ramas](https://docs.serempre.com/en/operations/development/frontend/git/generals/es)
+ - [Nomenclatura de commits (Nomenclatura Serempre Commits)](https://docs.serempre.com/en/operations/development/frontend/git/nomenclature)
+  - [Pull request](https://docs.serempre.com/en/operations/development/frontend/git/generals/es)
 
 
 una vez finalizado o tenga un avance significativo debera realizar un pull request solicitando la revision de su codigo, para asi aceptarlo o dar correccciones sobre este.
